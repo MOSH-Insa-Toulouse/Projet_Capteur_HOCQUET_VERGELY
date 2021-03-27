@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ltc1050)(type Legacy)(uri U:/Windows/Bureau/ltc1050.lib)(options "")(descr ""))
+  (lib (name Projet)(type Legacy)(uri ${KIPRJMOD}/Projet.lib)(options "")(descr ""))
+  (lib (name Kicad_projet-rescue)(type Legacy)(uri ${KIPRJMOD}/Kicad_projet-rescue.lib)(options "")(descr ""))
+)
