@@ -7,7 +7,7 @@
   - [3.Code Arduino](#3-code-arduino)
   - [4. Shield KICAD](#4-shield)
   - [5. Application Android](#5-application-android)
-  - [6. Procédure d'étalonnage](#6-procédures-d-étalonnage)
+  - [6. Procédure d étalonnage](#6-procédures-d-étalonnage)
   - [7. Datasheet](#7-datasheet)
   - [8. Les auteurs](#8-les-auteurs)
 <!-- /TOC -->
@@ -22,7 +22,7 @@ Les mesures sont aussi transmises en bluetooth et interfacées sur une applicati
 ## 3. Code Arduino
 ## 4. Shield
 ## 5. Application Android
-## 6. Procédure d'étalonnage
+## 6. Procédure d étalonnage
 ## 7. Datasheet
 ## 8. Les auteurs
 
