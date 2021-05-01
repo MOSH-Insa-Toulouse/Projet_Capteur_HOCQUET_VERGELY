@@ -15,7 +15,7 @@
 
 ## 1. Description
 Ce répertoire contient toutes les ressources nécessaires au  projet "du capteur au banc de tests" 2021 du Génie Physique de l'INSA de Toulouse. Ce projet est basé sur l'utilisation d'un capteur en graphite, il exploite la dépendance entre la conductivité électrique et l’espace moyen entre les particules au sein d’un système granuleux. L'application de forces entraîne la déformation de l'échantillion, ce qui affecte la distance entre les particules et donc la variataion de la conductivité/resistance globale de l'échantillion.
-La chaîne de mesure est basée sur l'acquisition d'un signal associée à la variation de résistance du capteur. Notre shield permet de conditionner, filtrer et amplifier (ampli transimpédance) le signal afin de transmettre une tension exploitable par une carte arduino UNO. Par ailleurs, il fait aussi le lien entre la carte et les différents modules : module bluetooth, encodeur rotateur, écran oled. 
+La chaîne de mesure est basée sur l'acquisition d'un signal associé à la variation de résistance du capteur. Notre shield permet de conditionner, filtrer et amplifier (ampli transimpédance) le signal afin de transmettre une tension exploitable par une carte arduino UNO. Par ailleurs, il fait aussi le lien entre la carte et les différents modules : module bluetooth, encodeur rotateur, écran oled. 
 Les mesures sont aussi transmises en bluetooth et interfacées sur une application mobile que nous avons conçue sur MIT App Inventor.
 
 ## 2. Installation
@@ -29,11 +29,11 @@ Vous êtes maintenant prêts à réaliser vos premières mesures !
 
 ## 3. Code Arduino
 
-Notre code Arduino (C++) que vous retrouverez dans le fichier du même nom, permets:
--De lire la tension tension de sortie de l'ampli transimpédance sur 10 bits 
--D'afficher le signal sur un écran OLED 128x64 en Volts ou en Ohm sur 10 bits
--De transmettre la tension par bluetooth sur 1 otect à travers le module hc-05
--D'acquerir les rotations d'un encodeur rotateur afin de changer l'affichage de l'écran OLED
+Notre code Arduino (C++) que vous retrouverez dans le fichier du même nom, permet:
+  -De lire la tension tension de sortie de l'ampli transimpédance sur 10 bits 
+  -D'afficher le signal sur un écran OLED 128x64 en Volts ou en Ohm sur 10 bits
+  -De transmettre la tension par bluetooth sur 1 otect à travers le module hc-05
+  -D'acquerir les rotations d'un encodeur rotateur afin de changer l'affichage de l'écran OLED
 
 ## 4. Shield
 
