@@ -29,11 +29,7 @@ Vous êtes maintenant prêts à réaliser vos premières mesures !
 
 ## 3. Code Arduino
 
-Notre code Arduino (C++) que vous retrouverez dans le fichier du même nom, permet:
--De lire la tension tension de sortie de l'ampli transimpédance sur 10 bits 
--D'afficher le signal sur un écran OLED 128x64 en Volts ou en Ohm sur 10 bits
--De transmettre la tension par bluetooth sur 1 otect à travers le module hc-05
--D'acquerir les rotations d'un encodeur rotateur afin de changer l'affichage de l'écran OLED
+Notre code Arduino (C++) que vous retrouverez dans le fichier du même nom, permet : de lire la tension tension de sortie de l'ampli transimpédance sur 10 bits, d'afficher le signal sur un écran OLED 128x64 en Volts ou en Ohm sur 10 bits, de transmettre la tension par bluetooth sur 1 otect à travers le module hc-05 et d'acquerir les rotations d'un encodeur rotateur afin de changer l'affichage de l'écran OLED.
 
 ## 4. Shield
 
