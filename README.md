@@ -33,7 +33,7 @@ Notre code Arduino (C++) que vous retrouverez dans le fichier du même nom, perm
 
 ## 4. Shield
 
-Le shield a été conçu sous KiCad, il contient un amplificateur transimpédance adapté à notre utilisation, ainsi que des socles pour alimenter et communiquer avec les différents modules. Vous pouvez retrouver l'ensemble du pojet, et les fichiers nécessaires à l'impression dans le fichier "Shield_KiCad".
+Le shield a été conçu sous KiCad, il contient un amplificateur transimpédance adapté à notre utilisation, ainsi que des socles pour alimenter et communiquer avec les différents modules. Vous pouvez retrouver l'ensemble du projet, et les fichiers nécessaires à l'impression dans le fichier "Shield_KiCad".
 
 ## 5. Application Android
 
