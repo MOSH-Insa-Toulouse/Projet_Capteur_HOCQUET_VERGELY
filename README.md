@@ -4,7 +4,7 @@
 <!-- TOC depthFrom:2 -->
   - [1. Description](#1-description)
   - [2. Installation](#2-installation)
-  - [3.Code Arduino](#3-code-arduino)
+  - [3. Code Arduino](#3-code-arduino)
   - [4. Shield KICAD](#4-shield)
   - [5. Application Android](#5-application-android)
   - [6. Etalonnage](#6-Etalonnage)
